@@ -1,0 +1,12 @@
+{
+	Filter = {
+		Bundles = (
+			"com.apple.springboard",
+			"com.apple.mobilesms.notification",
+		);
+		Executables = (
+			assertiond,
+		);
+		Mode = Any;
+	};
+}

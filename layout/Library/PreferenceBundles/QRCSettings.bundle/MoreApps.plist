@@ -1,0 +1,227 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<!DOCTYPE plist PUBLIC "-//Apple//DTD PLIST 1.0//EN" "http://www.apple.com/DTDs/PropertyList-1.0.dtd">
+<plist version="1.0">
+<dict>
+	<key>title</key>
+	<string>More Apps</string>
+	<key>items</key>
+	<array>
+		<dict>
+			<key>cell</key>
+			<string>PSGroupCell</string>
+			<key>label</key>
+			<string></string>
+			<key>footerText</key>
+			<string>Quick reply and compose for WhatsApp.</string>
+		</dict>
+		<dict>
+			<key>cell</key>
+			<string>PSLinkCell</string>
+			<key>label</key>
+			<string>QRC for WA</string>
+			<key>action</key>
+			<string>qrcWhatsApp</string>
+			<key>icon</key>
+			<string>whatsapp-icon.png</string>
+		</dict>
+		<dict>
+			<key>cell</key>
+			<string>PSGroupCell</string>
+			<key>label</key>
+			<string></string>
+			<key>footerText</key>
+			<string>Quick reply and compose for QQ.</string>
+		</dict>
+		<dict>
+			<key>cell</key>
+			<string>PSLinkCell</string>
+			<key>label</key>
+			<string>QRC for QQ</string>
+			<key>action</key>
+			<string>qrcQQ</string>
+			<key>icon</key>
+			<string>qrcqq-icon.png</string>
+		</dict>
+		<dict>
+			<key>cell</key>
+			<string>PSGroupCell</string>
+			<key>label</key>
+			<string></string>
+			<key>footerText</key>
+			<string>Quick reply and compose for WeChat.</string>
+		</dict>
+		<dict>
+			<key>cell</key>
+			<string>PSLinkCell</string>
+			<key>label</key>
+			<string>QRC for WeChat</string>
+			<key>action</key>
+			<string>qrcWeChat</string>
+			<key>icon</key>
+			<string>qrcwechat-icon.png</string>
+		</dict>
+		<dict>
+			<key>cell</key>
+			<string>PSGroupCell</string>
+			<key>label</key>
+			<string></string>
+			<key>footerText</key>
+			<string>Awesome multitasking gestures and more.</string>
+		</dict>
+		<dict>
+			<key>cell</key>
+			<string>PSLinkCell</string>
+			<key>label</key>
+			<string>Tage</string>
+			<key>action</key>
+			<string>tage</string>
+			<key>icon</key>
+			<string>tage-icon.png</string>
+		</dict>
+		<dict>
+			<key>cell</key>
+			<string>PSGroupCell</string>
+			<key>label</key>
+			<string></string>
+			<key>footerText</key>
+			<string>Show Spotlight Search from anywhere, fold search result section, show Quick Launch apps and more.</string>
+		</dict>
+		<dict>
+			<key>cell</key>
+			<string>PSLinkCell</string>
+			<key>label</key>
+			<string>Search+</string>
+			<key>action</key>
+			<string>searchplus</string>
+			<key>icon</key>
+			<string>searchplus-icon.png</string>
+		</dict>
+		<dict>
+			<key>cell</key>
+			<string>PSGroupCell</string>
+			<key>label</key>
+			<string></string>
+			<key>footerText</key>
+			<string>SMS / iMessage from anywhere in iOS.</string>
+		</dict>
+		<dict>
+			<key>cell</key>
+			<string>PSLinkCell</string>
+			<key>label</key>
+			<string>Messages </string>
+			<key>action</key>
+			<string>messages</string>
+			<key>icon</key>
+			<string>messages-icon.png</string>
+		</dict>
+		<dict>
+			<key>cell</key>
+			<string>PSGroupCell</string>
+			<key>label</key>
+			<string></string>
+			<key>footerText</key>
+			<string>Enable Notification Center at lockscreen, custom background and more...</string>
+		</dict>
+		<dict>
+			<key>cell</key>
+			<string>PSLinkCell</string>
+			<key>label</key>
+			<string>Bulletin</string>
+			<key>action</key>
+			<string>bulletin</string>
+			<key>icon</key>
+			<string>bulletin-icon.png</string>
+		</dict>
+		<dict>
+			<key>cell</key>
+			<string>PSGroupCell</string>
+			<key>label</key>
+			<string></string>
+			<key>footerText</key>
+			<string>Call, send message, send mail, FaceTime, search and open site from anywhere.</string>
+		</dict>
+		<dict>
+			<key>cell</key>
+			<string>PSLinkCell</string>
+			<key>label</key>
+			<string>QuickCall</string>
+			<key>action</key>
+			<string>quickcall</string>
+			<key>icon</key>
+			<string>quickcall-icon.png</string>
+		</dict>
+		<dict>
+			<key>cell</key>
+			<string>PSGroupCell</string>
+			<key>label</key>
+			<string></string>
+			<key>footerText</key>
+			<string>Shortcuts, app switcher and multi-tasking management for iOS.</string>
+		</dict>
+		<dict>
+			<key>cell</key>
+			<string>PSLinkCell</string>
+			<key>label</key>
+			<string>Dock</string>
+			<key>action</key>
+			<string>dock</string>
+			<key>icon</key>
+			<string>dock-icon.png</string>
+		</dict>
+		<dict>
+			<key>cell</key>
+			<string>PSGroupCell</string>
+			<key>label</key>
+			<string></string>
+			<key>footerText</key>
+			<string>Centralized gestures, shortcuts, toggles, app switcher and multi-tasking management for iOS.</string>
+		</dict>
+		<dict>
+			<key>cell</key>
+			<string>PSLinkCell</string>
+			<key>label</key>
+			<string>QuickDo</string>
+			<key>action</key>
+			<string>quickdo</string>
+			<key>icon</key>
+			<string>quickdo-icon.png</string>
+		</dict>
+		<dict>
+			<key>cell</key>
+			<string>PSGroupCell</string>
+			<key>label</key>
+			<string></string>
+			<key>footerText</key>
+			<string>Cool tweak, custom unlock animation and sound, unlock device by swipe gestures.</string>
+		</dict>
+		<dict>
+			<key>cell</key>
+			<string>PSLinkCell</string>
+			<key>label</key>
+			<string>iUnlock</string>
+			<key>action</key>
+			<string>iunlock</string>
+			<key>icon</key>
+			<string>iunlock-icon.png</string>
+		</dict>
+		<dict>
+			<key>cell</key>
+			<string>PSGroupCell</string>
+			<key>label</key>
+			<string></string>
+			<key>footerText</key>
+			<string>App usage statistics, frequency of use, use of time and recent use.</string>
+		</dict>
+		<dict>
+			<key>cell</key>
+			<string>PSLinkCell</string>
+			<key>label</key>
+			<string>AppStat</string>
+			<key>action</key>
+			<string>appstat</string>
+			<key>icon</key>
+			<string>appstat-icon.png</string>
+		</dict>
+	</array>
+</dict>
+</plist>

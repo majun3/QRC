@@ -1,0 +1,108 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<!DOCTYPE plist PUBLIC "-//Apple//DTD PLIST 1.0//EN" "http://www.apple.com/DTDs/PropertyList-1.0.dtd">
+<plist version="1.0">
+<dict>
+	<key>App usage statistics, frequency of use, use of time and recent use.</key>
+	<string>iOS應用程式使用統計軟件，可以統計程式使用的次數，使用時長和最近使用。</string>
+	<key>Call, send message, send mail, FaceTime, search and open site from anywhere.</key>
+	<string>任何地方快速撥打電話，發訊息，發郵件，FaceTime，搜索，打開網頁。</string>
+	<key>Cancel</key>
+	<string>取消</string>
+	<key>Centralized gestures, shortcuts, toggles, app switcher and multi-tasking management for iOS.</key>
+	<string>很實用的iOS手勢，多任務，程式快捷方式和開關管理軟件，通過手勢可以執行很多快捷操作。</string>
+	<key>Close</key>
+	<string>關閉</string>
+	<key>Cool tweak, custom unlock animation and sound, unlock device by swipe gestures.</key>
+	<string>炫機器必備軟件，華麗解鎖，自定義解鎖動畫和解鎖聲音，還可以通過手勢來解鎖。</string>
+	<key>Done</key>
+	<string>完成</string>
+	<key>Enable Notification Center at lockscreen, custom background and more...</key>
+	<string>鎖屏界面啟用通知中心，自定義通知中心背景圖片，鎖屏界面上滑通知中心直接解鎖等。</string>
+	<key>Enabled</key>
+	<string>啟用</string>
+	<key>More Apps</key>
+	<string>更多應用</string>
+	<key>SMS / iMessage from anywhere in iOS.</key>
+	<string>任何地方快速發送和回覆訊息。</string>
+	<key>Shortcuts, app switcher and multi-tasking management for iOS.</key>
+	<string>很炫的iOS軟件，使用轉盤來操作的iOS多任務和程式快捷方式管理軟件。</string>
+	<key>Show Spotlight Search from anywhere, fold search result section, show Quick Launch apps and more.</key>
+	<string>任何地方顯示Spotlight搜索, 折疊搜尋結果，顯示快速啟動程式等。</string>
+	<key>Awesome multitasking gestures and more.</key>
+	<string>功能強大的多任務手勢。</string>
+	<key>Quick reply and compose for WeChat.</key>
+	<string>微信快捷回覆和快捷發送。</string>
+	<key>Quick reply and compose for QQ.</key>
+	<string>QQ快捷回覆和快捷發送。</string>
+	<key>Quick reply and compose for WhatsApp.</key>
+	<string>WhatsApp快捷回覆和快捷發送。</string>
+	<key>Sent Succeeds</key>
+	<string>發送成功</string>
+	<key>Play Sound</key>
+	<string>播放聲音</string>
+	<key>Vibrate</key>
+	<string>振動</string>
+	<key>Select or enter contact ...</key>
+	<string>選擇或輸入聯繫人 ...</string>
+	<key>Launching application fails, please launch manually!</key>
+	<string>無法啓動程式，請手動啓動！</string>
+	<key>Reply</key>
+	<string>回復</string>
+	<key>Quit App when Sleep</key>
+	<string>睡眠時退出程式</string>
+	<key>Turn on can reduce battery use.</key>
+	<string>開啓可減少電量消耗。</string>
+	<key>Return Key as Send</key>
+	<string>使用回車鍵發送</string>
+	<key>If turn on &quot;Return&quot; key will show as &quot;Send&quot; key, action will change to send message.</key>
+	<string>如果開啓“回車”鍵顯示爲“發送”，動作變爲發送信息。</string>
+	<key>Manual</key>
+	<string>使用手冊</string>
+	<key>Quick Reply</key>
+	<string>快捷回覆</string>
+	<key>- Swipe down from notificatin banner to quick reply.
+- Swipe left from notification item to show &quot;Reply&quot; button, click &quot;Reply&quot; to quick reply.</key>
+	<string>- 下拉通知條來快捷回覆。
+- 通知中心左滑顯示回覆按鈕，點回覆按鈕來快捷回覆。</string>
+	<key>Quick Compose</key>
+	<string>快捷發送</string>
+	<key>- Click Notification Center compose icon to quick compose.
+- Assign activation method via QuickDo or Activator.</key>
+	<string>- 點通知中心快捷回覆圖標激活快捷發送。
+- 使用QuickDo或Activator设置手势激活快捷發送。</string>
+	<key>Dismiss window</key>
+	<string>關閉窗口</string>
+	<key>- Swipe down to keyboard area.
+- Click home button.</key>
+	<string>- 向下往鍵盤區域滑動。
+- 按Home鍵。</string>
+	<key>Launch App</key>
+	<string>打開程序</string>
+	<key>- Click notificatin banner to launch app.</key>
+	<string>- 點通知條打開程序。</string>
+	<key>Simple Mode</key>
+	<string>簡單模式</string>
+	<key>If turn on will not show chat messages, swipe down from notification banner or swipe down to keyboard area to show chat messages.</key>
+	<string>如果開啓將不會自動顯示聊天記錄，從通知條往下滑或向下往鍵盤區域滑動來顯示聊天記錄。</string>
+	<key>Switch to Select Contact Window</key>
+	<string>切換到選擇聯繫人界面</string>
+	<key>- Double tap blank area of chat messages view to switch to select contact window.</key>
+	<string>- 雙擊聊天記錄空白區域來切換到選擇聯繫人界面。</string>
+	<key>Refresh Chat Messages</key>
+	<string>刷新聊天記錄</string>
+	<key>- Pull up to refresh chat messages.</key>
+	<string>- 聊天記錄界面向上拖動來刷新聊天記錄。</string>
+	<key>Dismiss After Send</key>
+	<string>發送後關閉</string>
+	<key>Send button swipe down gesture action - If turn on &quot;Dismiss After Send&quot;, swipe down from send button will send message and keep window. If turn off &quot;Dismiss After Send&quot;, swipe down from send button will send message and dismiss window.</key>
+	<string>發送按鈕向下滑動手勢動作 - 如果“發送後關閉”開啓，發送按鈕向下滑動會發送信息並保留窗口，如果“發送後關閉”關閉，發送按鈕向下滑動會發送信息並關閉 窗口。</string>
+	<key>Recent Contact Limit</key>
+	<string>最近聯繫人顯示數</string>
+	<key>Retry</key>
+	<string>重試</string>
+	<key>⚠️ Failed to send message &quot;%@&quot;</key>
+	<string>⚠️ 發送失敗 &quot;%@&quot;</string>
+	<key>Resend Messages</key>
+	<string>重新發送</string>
+</dict>
+</plist>
